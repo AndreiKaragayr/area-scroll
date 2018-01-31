@@ -3,7 +3,7 @@
 
 [This repository](https://github.com/AndreiKaragayr/module_kai-scroll.git)
 
-![One slide](img/overlap-slide-2-1.jpg "One slide")
+![One slide](view-min.png "One slide")
 
 Фишка слайдера:
 1. Различная анимация для скролинга.
