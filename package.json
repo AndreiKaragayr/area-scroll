@@ -1,0 +1,25 @@
+{
+  "name": "modul_kai-scroll",
+  "version": "1.0.0",
+  "description": "modul from projact landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiKaragayr/module_kai-scroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "Karagayr Andrei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiKaragayr/module_kai-scroll/issues"
+  },
+  "homepage": "https://github.com/AndreiKaragayr/module_kai-scroll#readme",
+  "dependencies": {
+    "eslint": "^4.16.0"
+  }
+}
