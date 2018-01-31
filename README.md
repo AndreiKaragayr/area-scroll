@@ -47,7 +47,7 @@
 <div class="area-scroll animation-from-side">
 ...
 ```
-Для кнопки есть нужно прописать свой класс btn-area:
+Для кнопки нужно прописать свой класс btn-area:
 
 ```
 ...
