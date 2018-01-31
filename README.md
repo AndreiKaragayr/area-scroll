@@ -29,6 +29,7 @@
 	<div class="wr-image"> Ваша Картинка </div>
 	<div class="wr-heading"> Ваш Заголовок </div>
 	<div class="wr-text"> Ваш текст </div>
+	<div class="wr-progress-bar" data-value="90" data-unit="%">Web design</div>
 </div>
 ```
 
@@ -37,7 +38,7 @@
 <script src="js/area_scroll.js"></script>
 ```
 #### Мануал:
-Прописаны 4 вида анимации:
+**Прописаны 4 вида анимации:**
 1. animation-from-side
 2. animation-rotate
 3. animation-door
@@ -47,7 +48,7 @@
 <div class="area-scroll animation-from-side">
 ...
 ```
-Для кнопки нужно прописать свой класс btn-area:
+**Для кнопки нужно прописать свой класс btn-area:**
 
 ```
 ...
@@ -56,4 +57,17 @@
 </div>
 ```
 Так вы получите анимированую кнопку, которую можно дополнять стилями.
+
+**Как заполнить progress-bar**
+Progress-bar может быть во всех area-scroll, один, два или больше.
+Для того что бы заполнить  нужно три значения это счетчик data-value, еденица измерения data-unit и название:
+
+```
+<div class="wr-progress-bar" data-value="90" data-unit="%">Web design</div>
+<div class="wr-progress-bar" data-value="95" data-unit="%">Development</div>
+<div class="wr-progress-bar" data-value="85" data-unit="%">Video/audio</div>
+<div class="wr-progress-bar" data-value="88" data-unit="%">Interactive media</div>
+<div class="wr-progress-bar" data-value="90" data-unit="%">Photography</div>
+<div class="wr-progress-bar" data-value="95" data-unit="%">Graphic design</div>
+```
 
