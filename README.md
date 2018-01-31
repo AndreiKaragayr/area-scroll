@@ -36,7 +36,7 @@
 ```
 <script src="js/area_scroll.js"></script>
 ```
-#### Монуал:
+#### Мануал:
 Прописаны 4 вида анимации:
 1. animation-from-side
 2. animation-rotate
