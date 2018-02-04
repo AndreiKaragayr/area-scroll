@@ -1,21 +1,22 @@
-# Area_scroll (modul)
-## Анимированный скролинг страницы на jQuery.
+# Area-scroll (Анимированный скролинг страницы на jQuery)
+***
+## Вы можете скачать "Area-scroll page" Zip архивом.
 
-[This repository](https://github.com/AndreiKaragayr/module_kai-scroll.git)
+[![download Area-scroll](https://2.bp.blogspot.com/-DZsnyc5ZXFg/WHAOLC8TN1I/AAAAAAAAPpY/S9tsBt_aVG8bViIrux9EDoAM0q-mREjWACLcB/s200/075947cd7ad84c38a558070e233808b5.jpg.gif)](github.com/AndreiKaragayr/module_kai-scroll.git)
 
-![One slide](view-min.png "One slide")
-
-Фишка слайдера:
-1. Различная анимация для скролинга.
-  + 4 встроенные анимации
-  + можно дописать свои
-2. Настраиваемый progress-bar.
-  + неограниченное количество progress-bar
-  + меняется цвет, счетчики, все анимируется по заданым критериям
-3. Настройка модуля.
-  + цвета заголовков
-  + время скольжения progress-bar
-4. Мобильная версия.
+![preview Area-scroll](view-min.png "One slide")
+***
+### Про библиотеку:
+1. Area-scroll - это библиотека, которая оживляет страницу, её задача превращать ваши картинки и контент в блоки и анимировать их.
+2. Area-scroll уже Adaptive, Вам ненужно делать мобильную версию, библиотекой предусмотрена Adaptive версия.
+3. В Area-scroll содержит возможность создания progress-bar, он настраиваемый, это очень удобно если вам есть чем похвастаться перед клиентами. progress-bar может быть во всех блоках.
+4. В Area-scroll предусмотрено 4 вида анимации. Один из главных плюсов библиотеки, это то что можно написать свои анимации и легко подключить её. Можно использовать 1 анимацию для всех блоков или на каждом блоке разную.
+5. Area-scroll настраиваемая библиотека которая содержит настройки в файле `area_scroll.js` :
+  + `offset:` - скролинг появится позже на 100px
+  + `transitionTnsf:` -  время скольжения progress-bar
+  + `cotorSubtitle:`  -  цвет малого заголовка
+  + `colorHeading:` - цвет большого заголовка
+  + `colorBar:` - цвет progress-bar
 ***
 ### Как установить:
 Подключить Css:
