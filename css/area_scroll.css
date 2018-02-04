@@ -50,20 +50,8 @@ body{
 	width: 33.3333%;
 }
 
-@media screen and (max-width: 970px) {
-	.area-scroll .col-md{
-		width: 100%;
-	}
-	.area-scroll{
-		padding-bottom: 40px;
-	}
-	.size-full{
-		width: 100%;
-	}
-	.wr-heading{
-		padding: 40px 5%;
-	}
-
+.area-scroll .row{
+	margin: 0;
 }
 
 .text-right{
@@ -202,7 +190,7 @@ body{
 
 .area-scroll .btn-area span:after{
 	content: '\f054';
-	font-family: 'FontAwesome';
+	font-family: 'Font Awesome 5 Free';
 	font-size: 12px;
 	line-height: 0;
 	color: inherit;
@@ -232,23 +220,10 @@ body{
 	opacity: 1;
 }
 
-@media only screen and (min-width: 1200px){
-	.area-scroll  .width-section {
-		max-width: 1100px;
-		margin: auto;
-	}
-}
-
 .wr-progress-bar{
 	margin-bottom: 30px;
 	border-color: #211f1e;
 	color: #211f1e;
-}
-
-@media screen and (max-width: 1024px) {
-	.wr-progress-bar{
-		margin-bottom: 15px;
-	}
 }
 
 .wr-progress-bar .name-bar{
@@ -286,6 +261,40 @@ body{
 	transform: translateX(-100%);
 	background-color: rgb(138, 204, 255);
 }
+
+@media only screen and (min-width: 1200px){
+	.area-scroll  .width-section {
+		max-width: 1100px;
+		margin: auto;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.wr-progress-bar{
+		margin-bottom: 15px;
+	}
+}
+
+@media screen and (max-width: 970px) {
+	.area-scroll{
+		padding-bottom: 40px;
+		max-width: 86%;
+		margin: auto;
+	}
+	.area-scroll .col-md{
+		width: 100%;
+	}
+	.size-full{
+		width: 100%;
+	}
+	.wr-heading{
+		padding: 40px 0;
+	}
+	.area-scroll .bg-white{
+		padding: 0;
+	}
+}
+
 
 /* ========= */
 /* animate */
