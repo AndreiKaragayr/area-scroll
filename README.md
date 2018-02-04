@@ -3,7 +3,7 @@
 ***
 ## Вы можете скачать "Area-scroll page" Zip архивом.
 
-[![download Area-scroll](https://2.bp.blogspot.com/-DZsnyc5ZXFg/WHAOLC8TN1I/AAAAAAAAPpY/S9tsBt_aVG8bViIrux9EDoAM0q-mREjWACLcB/s200/075947cd7ad84c38a558070e233808b5.jpg.gif)](github.com/AndreiKaragayr/module_kai-scroll.git)
+[![download Area-scroll](http://gifimage.net/wp-content/uploads/2017/07/download-gif-4.gif)](github.com/AndreiKaragayr/module_kai-scroll.git)
 
 ![preview Area-scroll](view-min.png "One slide")
 ***
