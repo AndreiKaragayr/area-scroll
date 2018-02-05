@@ -2,7 +2,7 @@
 #### (Анимированный скролинг страницы на jQuery)
 ***
 ### Вы можете скачать "Area-scroll page" Zip архивом.
-[![download Area-scroll](http://gifimage.net/wp-content/uploads/2017/10/download-button-gif-13.gif)](github.com/AndreiKaragayr/module_kai-scroll.git)
+[![download Area-scroll](http://gifimage.net/wp-content/uploads/2017/10/download-button-gif-13.gif)](https://github.com/AndreiKaragayr/module_kai-scroll.git)
 ![preview Area-scroll](view-min.png "One slide")
 ***
 ### Про библиотеку:
